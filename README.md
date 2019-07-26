@@ -1,0 +1,2 @@
+# TensorFlow_Practice_resource
+创建TensorFlow_Practice这个项目的资源文件，如保存一些较大图片，这样不会在频繁git clone时候占用太多时间
